@@ -1,12 +1,12 @@
-# 📊 Customer Segmentation using K-Means Clustering
+# Customer Segmentation using K-Means Clustering
 
-## 📌 Project Overview
+## Project Overview
 Customer segmentation is a key marketing strategy that helps businesses understand customer behavior and personalize offerings.  
 This project applies **unsupervised machine learning** using **K-Means clustering** on the Mall Customers dataset to identify distinct customer groups based on income and spending behavior.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Segment customers into meaningful groups
 - Analyze purchasing behavior patterns
 - Enable data-driven marketing and customer targeting strategies
@@ -23,7 +23,7 @@ This project applies **unsupervised machine learning** using **K-Means clusterin
 
 ---
 
-## 📂 Dataset
+## Dataset
 **Mall Customers Dataset**
 
 ### Features Used:
@@ -35,7 +35,7 @@ This project applies **unsupervised machine learning** using **K-Means clusterin
 
 ---
 
-## 🔍 Methodology
+## Methodology
 1. Data loading and inspection
 2. Feature selection
 3. Feature scaling using **StandardScaler**
@@ -48,14 +48,14 @@ This project applies **unsupervised machine learning** using **K-Means clusterin
 
 ---
 
-## 📈 Key Metrics
+## Key Metrics
 - **Silhouette Score** (≈ 0.5+)
 - Cluster sizes
 - Customer segment profiles
 
 ---
 
-## 🧠 Customer Segments Identified
+## Customer Segments Identified
 - **High-Value Loyal Customers**
 - **Careful / Conservative Spenders**
 - **Impulse Buyers**
@@ -66,7 +66,7 @@ Each segment represents a unique customer persona useful for targeted marketing.
 
 ---
 
-## 💡 Business Insights
+## Business Insights
 - Enables personalized marketing strategies
 - Identifies premium customers for loyalty programs
 - Helps optimize promotional campaigns
@@ -74,7 +74,7 @@ Each segment represents a unique customer persona useful for targeted marketing.
 
 ---
 
-## 🔁 Model Comparison
+## Model Comparison
 ### K-Means
 - Requires predefined number of clusters
 - Best suited for marketing segmentation
@@ -87,21 +87,21 @@ Each segment represents a unique customer persona useful for targeted marketing.
 
 ---
 
-## 🚀 Results
+## Results
 - Clear and interpretable customer clusters
 - Interactive visualizations for decision-making
 - Actionable insights for business strategy
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 - Incorporate RFM analysis with transactional data
 - Deploy as an interactive dashboard
 - Integrate real-time customer segmentation
 
 ---
 
-## 📎 Conclusion
+## Conclusion
 This project demonstrates how **unsupervised learning techniques** can transform customer data into valuable business insights, enabling effective segmentation and targeted marketing strategies.
 
 ---
