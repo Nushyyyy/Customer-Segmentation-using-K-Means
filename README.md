@@ -13,7 +13,7 @@ This project applies **unsupervised machine learning** using **K-Means clusterin
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python**
 - **Pandas**
 - **NumPy**
@@ -106,6 +106,6 @@ This project demonstrates how **unsupervised learning techniques** can transform
 
 ---
 
-## 📬 Author
+## Author
 **Anushka Anil**  
 B.Tech – Data Science & Artificial Intelligence
